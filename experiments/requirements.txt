@@ -1,0 +1,8 @@
+numpy
+Pillow
+scipy
+dlib==19.22
+opencv-python
+torchvision
+matplotlib
+pandas
